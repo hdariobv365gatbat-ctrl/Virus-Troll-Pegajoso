@@ -1,0 +1,8 @@
+Ejecuta el archivo Zy para que funcione
+si quieres que deje de ejecutarse al encenderse tu pc haz esto
+
+Presiona Ctrl + Shift + Esc para abrir el Administrador de tareas.
+
+Dirígete a la pestaña de Aplicaciones de inicio (suele tener el ícono de un medidor o velocímetro en el menú lateral izquierdo o superior, dependiendo de tu versión de Windows).
+
+Busca el programa o script en la lista, haz clic derecho sobre él y selecciona Deshabilitar.
